@@ -1,5 +1,5 @@
 #                                                    नमस्ते (Namaste) 🙏🏻 , I'm Hari Narayan Shukla
-##                                            JAVA | Springboot | C# | C#.NET | ASP.NET | PHP | ASP.NET CORE
+##                                            JAVA | Springboot | Python | Web Scraping | Docker | Jenkins | AWS
 
 
 
